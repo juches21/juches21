@@ -2,15 +2,14 @@
  </h1> 
 
 <p align="left">
-  <a href="https://www.youtube.com/@JuanChovi-of9fg" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href="https://juan-chovi.itch.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="unsimpledev"  /></a>
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+ 
+<a href="www.linkedin.com/in/juan-choví-estarelles-813253133" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Juan"/></a>
+<a href="https://juan-chovi.itch.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itchio"  /></a>
+<a href = "mailto:jchovi21@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@jchovi21"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?logo=itchdotio&labelColor=%23FA5C5C">
 
 <p align="left">
 <h2>🎓 STUDIES</h2> 
@@ -23,13 +22,9 @@
 
 
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
 
 
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
-
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
 📫 Contacto: **jchovi21@gmail.com**
 <!--Intro end-->

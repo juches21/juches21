@@ -10,7 +10,9 @@
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
+<p>Video game programmer specialized in Unity, with a background in web, multiplatform, and game development. I have participated in full development projects both independently and as part of a team, taking on the role of lead programmer in most of them.
 
+Passionate about gameplay systems development and technical design of mechanics, focused on creating clean, modular, and scalable solutions. Motivated to continue growing professionally in collaborative environments, especially within studios where creativity and optimization go hand in hand.</p>
 <p align="left">
 <h2>🎓 STUDIES</h2> 
   

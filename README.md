@@ -75,6 +75,17 @@ Passionate about gameplay systems development and technical design of mechanics,
       <a href="https://github.com/juches21/Coopling" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
+
+ <td width="25%" align="center">
+    <p align="center">
+           <img align="center" width=50% src="https://github.com/juches21/Juches21-images/blob/03b222a53a01b3c9081fb8bf26bfd1eaea50bf9e/neo%20therokiesUnMask.png"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://juan-chovi.itch.io/cooplins" target="blank"><img align="center" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="unsimpledev"  /></a>
+      <a href="https://github.com/juches21/Unmask-Me-if-you-can" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+
 </tr>
 </table>
   </div>

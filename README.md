@@ -110,11 +110,11 @@ Passionate about gameplay systems development and technical design of mechanics,
  
  <td width="25%" align="center">
     <p align="center">
-           <!-- <img align="center" width=50% src="https://github.com/juches21/Juches21-images/blob/d4b73829c70c1fc0e7506b46620b8200baa1cb20/neo%20therokieskooplin.png"   alt="VIDEO" /></a> -->
+           <img align="center" width=50% src="https://github.com/juches21/Juches21-images/blob/e36678407c8a41b6ad9fb355232a7f801092a8a9/AIstatemachine.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <!-- <a href="https://juan-chovi.itch.io/cooplins" target="blank"><img align="center" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="unsimpledev"  /></a> -->
-      <!-- <a href="https://github.com/juches21/Coopling" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a> -->
+      <a href="https://github.com/juches21/Prueba-T-cnica-Inumbra" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
 

@@ -1,6 +1,10 @@
 <h1 align="center">Hi I'm Juan Choví
  </h1> 
 
+
+ <img src="https://github.com/juches21/Juches21-images/blob/68cb7e73aacfe84f5f199f93a1f66e778583378e/baner%20itchio.png" />
+
+ 
 <p align="left">
  
 <a href="www.linkedin.com/in/juan-choví-estarelles-813253133" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Juan"/></a>

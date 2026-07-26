@@ -2,7 +2,7 @@
  </h1> 
 
 
- <img src="https://github.com/juches21/Juches21-images/blob/68cb7e73aacfe84f5f199f93a1f66e778583378e/baner%20itchio.png" />
+
 
  
 <p align="left">
@@ -12,6 +12,16 @@
 <a href = "mailto:jchovi21@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@jchovi21"  /></a>
   </p>
 <br>
+
+
+ <td width="50%" align="center">
+    <p align="center">
+           <img src="https://github.com/juches21/Juches21-images/blob/68cb7e73aacfe84f5f199f93a1f66e778583378e/baner%20itchio.png"  width="70%"  />
+
+     
+</td>
+
+ 
 <h2>About me</h2>
 <!--Intro start-->
 <p>Video game programmer specialized in Unity, with a background in web, multiplatform, and game development. I have participated in full development projects both independently and as part of a team, taking on the role of lead programmer in most of them.
